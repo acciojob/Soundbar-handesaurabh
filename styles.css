@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+#buttons{
+	background-color:purple;
+	width:100vw;
+	height:200px;
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+.btn{
+	background-color:violet;
+	border:none;
+	padding:10px;
+	color:white;
+}
+.stop{
+	background-color:violet;
+	border:none;
+	padding:10px;
+	color:white;
+}
